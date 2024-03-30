@@ -20,35 +20,6 @@ footer {
     padding: 15px 30px 20px;
 }
 
-.socialIcons {
-    display: flex;
-    justify-content: center;
-}
-
-.socialIcons a {
-    text-decoration: none;
-    padding: 10px;
-    background-color: white;
-    margin: 10px;
-    border-radius: 100px;
-}
-
-.socialIcons a i {
-    font-size: 2em;
-    color: black;
-    opacity: 0.9;
-}
-
-.socialIcons a:hover {
-    background-color: black;
-    transition: 0.5s;
-}
-
-.socialIcons a:hover i {
-    color: white;
-    transition: 0.5s;
-}
-
 .footerNav {
     margin: 30px auto;
     /* Auto en el lado horizontal centra el elemento */
